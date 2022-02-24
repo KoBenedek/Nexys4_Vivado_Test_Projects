@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Feb 24 11:21:06 2022
+# Process ID: 3380
+# Current directory: D:/Documents/Motorvezerlo ASIC tervezes/FPGA programozas/Vivado projektek/Nexys4_Vivado_Test_Projects/test_project_1_blinky/test_project_1_blinky.runs/synth_1
+# Command line: vivado.exe -log adder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source adder.tcl
+# Log file: D:/Documents/Motorvezerlo ASIC tervezes/FPGA programozas/Vivado projektek/Nexys4_Vivado_Test_Projects/test_project_1_blinky/test_project_1_blinky.runs/synth_1/adder.vds
+# Journal file: D:/Documents/Motorvezerlo ASIC tervezes/FPGA programozas/Vivado projektek/Nexys4_Vivado_Test_Projects/test_project_1_blinky/test_project_1_blinky.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source adder.tcl -notrace
